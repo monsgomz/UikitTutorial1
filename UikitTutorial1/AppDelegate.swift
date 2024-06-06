@@ -4,6 +4,7 @@
 //
 //  Created by Montserrat Gomez on 2024-06-04.
 //
+//Es el punto de partida (como ControlView)
 
 import UIKit
 

@@ -4,6 +4,7 @@
 //
 //  Created by Montserrat Gomez on 2024-06-04.
 //
+//Para manejar varias patallas, Tiene varias funciones que se ejecutan en automatico en segundo plano
 
 import UIKit
 
